@@ -1605,7 +1605,7 @@
 /* =  8.SLIDER
 /*-------------------------------------------------*/
  .slider-arr{
-     color: #fff;
+     color: rgb(255, 255, 255);
      position: absolute;
      font-size: 18px;
      top: 50%;
@@ -1630,13 +1630,16 @@
      color: #e66030;
 }
  .slider-con p{
-     font-size: 20px;
-     color: #fff;
+     font-size: 25px;
+     font-style: oblique;
+     font-weight:bold;
+     color: rgb(28, 107, 235);
      margin-bottom: 40px;
      margin-top: 30px;
-     line-height: 30px;
-     font-weight: 300;
+     line-height: 40px;
+     font-weight: 500;
 }
+
  .slider-con a{
     /* color: #fff;
      */
